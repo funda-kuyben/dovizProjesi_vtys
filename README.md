@@ -65,5 +65,16 @@ Grafana üzerinde verileri görselleştirmek için dashboard oluşturun ve Influ
 ## API Bilgileri
 Open Exchange Rates API üzerinden döviz kuru verileri alınmaktadır. API anahtarınızı almak için buraya giderek kaydolabilirsiniz.
 
-## Lisans
-Bu proje, MIT Lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasını inceleyebilirsiniz.
+## Projenin Sağladığı Avantajlar
+1. Zaman Serisi Analizi: Grafana ile zaman içinde döviz kuru değişimlerini görselleştirebilirsiniz. Bu sayede döviz kuru hareketlerini daha iyi analiz edebilirsiniz.
+
+2. Gerçek Zamanlı Veri: Her dakika güncellenen veriler ile döviz kuru anlık olarak takip edilebilir.
+
+3. İnteraktif Görselleştirme: Grafana’nın sunduğu güçlü görselleştirme araçları sayesinde veriler kolayca analiz edilebilir. Kullanıcılar, veriyi filtreleyebilir ve farklı zaman dilimlerini inceleyebilirler.
+
+4. Kolay Erişim: Grafana’nın web tabanlı arayüzü sayesinde, kullanıcılar veriye herhangi bir cihazdan kolayca erişebilir.
+
+5. Esnek Yapı: InfluxDB ve Grafana'nın esnek yapısı, gelecekteki projeler için de benzer verilerin görselleştirilmesine olanak tanır.
+
+## Sonuç
+Bu proje, döviz kuru verilerini sürekli güncel tutmak ve görselleştirmek isteyen kullanıcılar için kapsamlı bir çözüm sunmaktadır. Python, InfluxDB ve Grafana'nın gücüyle, verilerin yönetimi ve görselleştirilmesi oldukça basit ve etkili bir hale gelmiştir.
