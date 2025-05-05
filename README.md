@@ -1,4 +1,4 @@
-Döviz Kuru Takip ve Görselleştirme Projesi
+#Döviz Kuru Takip ve Görselleştirme Projesi
 Bu proje, döviz kuru verilerini InfluxDB'ye kaydedip, Grafana kullanarak görselleştirmeyi amaçlamaktadır. Döviz kuru verileri, Open Exchange Rates API'den alınarak her dakika güncellenir. Grafana ile, döviz kuru verileri zaman serisi grafikleri şeklinde görselleştirilmekte ve kullanıcıya interaktif bir panel sunulmaktadır.
 
 Teknolojiler ve Kullanılan Araçlar
