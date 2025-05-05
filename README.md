@@ -23,11 +23,11 @@ dovizProjesi/
 ### Gereksinimler
 Projenin çalışabilmesi için aşağıdaki araçların yüklü olması gerekmektedir:
 
-### Python 3.x
+#### Python 3.x
 
-### InfluxDB 2.x
+#### InfluxDB 2.x
 
-### Grafana
+#### Grafana
 
 ## Gerekli Kütüphanelerin Yüklenmesi
 Projenin çalışması için gerekli olan Python kütüphaneleri requirements.txt dosyasında belirtilmiştir. Aşağıdaki komutu kullanarak gerekli kütüphaneleri yükleyebilirsiniz:
